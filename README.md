@@ -4,11 +4,13 @@ project_patroc é um projeto desenvolvido para a disciplina de Linhas de Transmi
 
 Embora não tenha sido exigido formalmente pelo professor, resolvi me desafiar a desenvolver este código e torná-lo acessível publicamente. O objetivo inicial é implementar o código em Python, disponibilizá-lo no GitHub e hospedá-lo de forma gratuita no Vercel, com uma interface acessível por meio de uma página HTML.
 
+Como está em desenvolvimento, é possível que durante o processo, mude um pouco o rumo do projeto.
+
 
 ## Abordagem
 
 
-Os tópicos tratados aqui são Propagação de Ondas Eletromagnéticas e Linhas de Transmissão, capítulos 10 e 11, respectivamente, do Sadiku (Elementos de eletromagnetismo I Matthcw N. O. Sadiku - 3ª ed).
+Os tópicos tratados aqui são Propagação de Ondas Eletromagnéticas e Linhas de Transmissão, capítulos 10 e 11, respectivamente, do Sadiku (Elementos de eletromagnetismo I Matthcw N. O. Sadiku - 3ª ed). Será usado o Sadiku como referência.
 
 # Propagação de Ondas Eletromagnéticas
 
