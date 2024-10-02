@@ -1,8 +1,8 @@
 ## project_patroc
 
-project_patroc é um projeto em desenvolvimento para a disciplina de Linhas de Transmissão e Ondas do curso de Engenharia Elétrica da UFRN. Decidi chamar "projeto patroc", pois é o apelido carinhoso que os discientes usam com o professor patroc (José Patrocínio). O próprio professor se chama de "patroc".
+project_patroc é um projeto desenvolvido para a disciplina de Linhas de Transmissão e Ondas do curso de Engenharia Elétrica da UFRN. O nome “project_patroc” é uma homenagem ao professor José Patrocínio, carinhosamente apelidado de "Patroc" pelos alunos. O próprio professor se refere a si mesmo dessa forma, o que tornou o apelido uma marca da disciplina.
 
-Apesar de não ser cobrado pelo professor um projeto dessa natureza, decidi me desafiar a fazer o código e deixá-lo acessível na internet. Inicialmente, a ideia é criar o código em Python, disponibilizá-lo no Github e hospedá-lo gratuitamente no vercel.com. Para isso, será criada a página html.
+Embora não tenha sido exigido formalmente pelo professor, resolvi me desafiar a desenvolver este código e torná-lo acessível publicamente. O objetivo inicial é implementar o código em Python, disponibilizá-lo no GitHub e hospedá-lo de forma gratuita no Vercel, com uma interface acessível por meio de uma página HTML.
 
 
 ## Abordagem
