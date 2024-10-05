@@ -1,0 +1,16 @@
+﻿project_patroc/
+│
+├── src/                       # Diretório do código-fonte
+│   ├── __init__.py
+│   ├── ondas.py               # Módulo para propagação de ondas eletromagnéticas
+│   ├── linhas_transmissao.py   # Módulo para linhas de transmissão
+│   ├── carta_smith.py          # Módulo para a carta de Smith
+│   └── utils.py               # Funções auxiliares
+│
+├── templates/                 # Diretório para HTML (interface web)
+│   └── index.html
+│
+├── app.py                     # Arquivo principal para execução da aplicação (Flask)
+├── requirements.txt           # Dependências do projeto
+├── README.md                  # Documentação do projeto
+└── .gitignore                 # Arquivos a serem ignorados pelo Git
